@@ -43,6 +43,15 @@ Please read the contributing file before adding to this project, [located here](
 ## Credits
 Made with :heart: by:
 
-- [@A1fus](http://twitter.com/a1fus)
-- [@JoeClarke319](http://twitter.com/joeclarke319)
-- [@httpjames](http://twitter.com/httpjames)
+- A1fus
+  - [Twitter](http://twitter.com/a1fus)
+  - [GitHub](http://github.com/a1fus)
+  - [Website](http://a1fus.github.io)
+- JoeClarke319
+  - [Twitter](http://twitter.com/joeclarke319)
+  - [GitHub](http://github.com/joeclarke12)
+- Jxmes
+  - [Twitter](http://twitter.com/httpjames)
+  - [GitHub](http://github.com/jxmes)
+- AlexEaton1105
+  - [GitHub](http://github.com/alexeaton1105)
