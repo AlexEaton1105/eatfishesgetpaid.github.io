@@ -46,7 +46,7 @@ Made with :heart: by:
 - A1fus
   - [Twitter](http://twitter.com/a1fus)
   - [GitHub](http://github.com/a1fus)
-  - [Website](htttp://a1fus.github.io)
+  - [Website](http://a1fus.github.io)
 - JoeClarke319
   - [Twitter](http://twitter.com/joeclarke319)
   - [GitHub](http://github.com/joeclarke12)
